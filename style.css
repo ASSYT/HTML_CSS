@@ -3,21 +3,21 @@
     src: url("Fonts/teddy-bear.ttf");
 }
 h1{
-    color:#fa042d;
-    font-family: "teddy_bear", sans-serif;
+    color:rgb(28, 88, 91)
+    /* font-family: "teddy_bear", sans-serif; */
 }
 h2{
-    color: rgb(243, 109, 7);
+    color: rgb(7, 243, 31);
 }
 a{
     color: rgb(13, 5, 255);
 }
-body{
-    background-color: rgb(201, 220, 143);
-}
+/* body{
+    background-color: rgb(190, 180, 157);
+} */
 img{
-    width:500px;
-    border: 3px solid black;
+    width:300px;
+    /* border: 3px solid black; */
     margin-left: 15px;
 }
 ul{
